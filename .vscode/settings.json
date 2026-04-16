@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "test",
+            "database": "${workspaceFolder:Phase1_week5_guidedexercise}/product-info-quality/test.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
